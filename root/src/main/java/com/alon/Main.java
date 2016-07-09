@@ -12,5 +12,6 @@ public class Main {
         System.out.println("feature 1!");
         System.out.println("feature 1 + 1!");
         System.out.println("feature 1 + 1 + 1!");
+        System.out.println("Hello feature2!");
     }
 }
